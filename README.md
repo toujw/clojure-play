@@ -1,10 +1,10 @@
 # clojure-play
 
-A Clojure library designed to ... well, that part is up to you.
+My Clojure playground
 
 ## Usage
 
-FIXME
+This project is simply a collection of functions and modules created as I wanted to explore, learn or model some problem. It can be jar'd up and used through 'require' statements or simply used from the REPL (as I do).
 
 ## License
 
